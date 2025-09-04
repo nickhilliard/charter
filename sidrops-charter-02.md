@@ -5,13 +5,15 @@ BGP announcements, and BGPSEC, is underway, creating an Internet
 Routing System consisting of SIDR-aware and non-SIDR-aware networks.
 This deployment must be properly handled to avoid the division of
 the Internet into separate networks. Sidrops is responsible for
-encouraging deployment of theSIDR technologies while ensuring as secure
+encouraging deployment of the SIDR technologies while ensuring as secure
 of a global routing system, as possible, during the transition.
 
 The SIDR Operations Working Group (sidrops) develops guidelines for
 the operation of SIDR-aware networks, and provides operational guidance
 on how to deploy and operate SIDR technologies in existing and new
-networks.
+networks. It also develops extensions and protocol updates that are 
+considered important to improve efficiency and security of SIDR, like 
+for instance Autonomous System Provider Authorization (ASPA).  
 
 In the space of sidrops, the term operators will encompass a range
 of operational experience: CA Operators, Regional/National and Local
@@ -35,7 +37,9 @@ issues with interaction with the non-SIDR-aware Internet,
 and to determine solutions or workarounds to those issues.
 
 Develop operational solutions for identified issues in sidrops and
-document them in informational or BCP documents.
+document them in standard track, informational, or BCP documents, 
+depending on the type of solution (e.g. new extensions vs 
+operational/deployment recommendations).
 
 These documents should document SIDR operational experience, including
 interactions with non-SIDR-aware networks, the interfaces between SIDR-
@@ -59,13 +63,12 @@ Group to work on a particular work item. If there is no longer
 sufficient interest in the Working Group in a work item, the item
 may be removed from the list of Working Group items.
 
-
 ## Milestones
 
 | Date | Milestone |
 | --- | --- | 
-| Sep 2017 |BGPSEC Ops document finalized.	
-| Jul 2017 | draft-ietf-sidr-rpki-tree-validation	
-| Jul 2017 | draft-ietf-sidr-route-server-rpki-light	
-| Jul 2017 | draft-ietf-sidr-rtr-keying	
-| Jul 2017 | draft-ietf-sidr-bgpsec-rollover
+| Nov 2025 | 8210bis document finalized |
+| Nov 2025 | draft-ietf-sidrops-aspa-profile|
+| Mar 2025 | draft-ietf-sidrops-aspa-verification|
+| Mar 2025 | draft-ietf-sidrops-aspa-notation|
+| Mar 2025 | draft-ietf-sidrops-aspa-slurm|
