@@ -11,7 +11,7 @@ of a global routing system, as possible, during the transition.
 SIDROPS develops guidelines for
 the operation of SIDR-aware networks, and provides operational guidance
 on how to deploy and operate SIDR technologies in existing and new
-networks. It also develops extensions and protocol updates that are 
+networks. It also develops protocol and protocols extensions that are 
 considered important to improve efficiency and security of SIDR, like 
 for instance Autonomous System Provider Authorization (ASPA).  The WG is also
 responsible for the maintenance of Resource Public Key Infrastructure (RPKI) to Router protocol.
