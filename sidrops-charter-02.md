@@ -8,7 +8,7 @@ the Internet into separate networks.  SIDR Operations Working Group (SIDROPS) is
 encouraging deployment of the SIDR technologies while ensuring as secure
 of a global routing system, as possible, during the transition.
 
-The SIDR Operations Working Group (sidrops) develops guidelines for
+SIDROPS develops guidelines for
 the operation of SIDR-aware networks, and provides operational guidance
 on how to deploy and operate SIDR technologies in existing and new
 networks. It also develops extensions and protocol updates that are 
