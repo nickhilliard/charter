@@ -4,7 +4,7 @@ The global deployment of SIDR, consisting of RPKI, Origin Validation of
 BGP announcements, and BGPSEC, is underway, creating an Internet
 Routing System consisting of SIDR-aware and non-SIDR-aware networks.
 This deployment must be properly handled to avoid the division of
-the Internet into separate networks. Sidrops is responsible for
+the Internet into separate networks.  SIDR Operations Working Group (SIDROPS) is responsible for
 encouraging deployment of the SIDR technologies while ensuring as secure
 of a global routing system, as possible, during the transition.
 
