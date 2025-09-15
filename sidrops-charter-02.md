@@ -74,4 +74,4 @@ may be removed from the list of Working Group items.
 | Nov 2025 | Submit draft-ietf-sidrops-aspa-profile to the IESG for publication|
 | Mar 2025 | Submit draft-ietf-sidrops-aspa-verification to the IESG for publication|
 | Mar 2025 | Submit draft-ietf-sidrops-aspa-notation to the IESG for publication|
-| Mar 2025 | draft-ietf-sidrops-aspa-slurm|
+| Mar 2025 | Submit draft-ietf-sidrops-aspa-slurm to the IESG for publication|
