@@ -37,6 +37,8 @@ Solicit input from all operators to identify
 issues with interaction with the non-SIDR-aware Internet,
 and to determine solutions or workarounds to those issues.
 
+Standardize YANG data models related to the SIDR operations.
+
 Develop operational solutions for identified issues in sidrops and
 document them in standard track, informational, or BCP documents, 
 depending on the type of solution (e.g. new extensions vs 
