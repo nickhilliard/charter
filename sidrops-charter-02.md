@@ -13,7 +13,8 @@ the operation of SIDR-aware networks, and provides operational guidance
 on how to deploy and operate SIDR technologies in existing and new
 networks. It also develops extensions and protocol updates that are 
 considered important to improve efficiency and security of SIDR, like 
-for instance Autonomous System Provider Authorization (ASPA).  
+for instance Autonomous System Provider Authorization (ASPA).  The WG is also
+responsible for the maintenance of Resource Public Key Infrastructure (RPKI) to Router protocol.
 
 In the space of sidrops, the term operators will encompass a range
 of operational experience: CA Operators, Regional/National and Local
