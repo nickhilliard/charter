@@ -73,5 +73,5 @@ may be removed from the list of Working Group items.
 | Nov 2025 | 8210bis document finalized |
 | Nov 2025 | Submit draft-ietf-sidrops-aspa-profile to the IESG for publication|
 | Mar 2025 | Submit draft-ietf-sidrops-aspa-verification to the IESG for publication|
-| Mar 2025 | draft-ietf-sidrops-aspa-notation|
+| Mar 2025 | Submit draft-ietf-sidrops-aspa-notation to the IESG for publication|
 | Mar 2025 | draft-ietf-sidrops-aspa-slurm|
