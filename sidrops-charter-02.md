@@ -70,8 +70,8 @@ may be removed from the list of Working Group items.
 
 | Date | Milestone |
 | --- | --- | 
-| Nov 2025 | 8210bis document finalized |
+| Nov 2025 | Submit draft-ietf-sidrops-8210bis to the IESG for publication|
 | Nov 2025 | Submit draft-ietf-sidrops-aspa-profile to the IESG for publication|
-| Mar 2025 | Submit draft-ietf-sidrops-aspa-verification to the IESG for publication|
-| Mar 2025 | Submit draft-ietf-sidrops-aspa-notation to the IESG for publication|
-| Mar 2025 | Submit draft-ietf-sidrops-aspa-slurm to the IESG for publication|
+| Mar 2026 | Submit draft-ietf-sidrops-aspa-verification to the IESG for publication|
+| Mar 2026 | Submit draft-ietf-sidrops-aspa-notation to the IESG for publication|
+| Mar 2026 | Submit draft-ietf-sidrops-aspa-slurm to the IESG for publication|
