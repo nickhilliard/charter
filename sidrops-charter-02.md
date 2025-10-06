@@ -42,7 +42,10 @@ Standardize YANG data models related to the SIDR operations.
 Develop operational solutions for identified issues in sidrops and
 document them in standard track, informational, or BCP documents, 
 depending on the type of solution (e.g. new extensions vs 
-operational/deployment recommendations).
+operational/deployment recommendations).  Given the importance
+of routing security to the overall stability of the internet, the
+Working Group will not submit specifications for publication to
+the IESG before demonstrating at least two interoperable implementations.
 
 These documents should document SIDR operational experience, including
 interactions with non-SIDR-aware networks, the interfaces between SIDR-
