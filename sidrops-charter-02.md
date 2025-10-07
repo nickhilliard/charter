@@ -44,7 +44,7 @@ document them in standard track, informational, or BCP documents,
 depending on the type of solution (e.g. new extensions vs 
 operational/deployment recommendations).  Given the importance
 of routing security to the overall stability of the Internet, the
-Working Group will not submit specifications for publication to
+Working Group will not submit protocol specifications for publication to
 the IESG before demonstrating at least two interoperable implementations.
 
 These documents should document SIDR operational experience, including
